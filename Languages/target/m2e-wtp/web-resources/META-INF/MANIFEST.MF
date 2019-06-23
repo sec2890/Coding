@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: stevencannizzaro1
+Build-Jdk: 10.0.1
+Implementation-Title: Languages
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codingdojo.languages
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Languages
+Created-By: Maven Integration for Eclipse
+
