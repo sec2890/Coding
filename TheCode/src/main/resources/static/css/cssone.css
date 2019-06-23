@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	padding-top: 100px;
+}
+h1 {
+	font-size: 35px;
+}
+#field {
+	height: 40px;
+	width: 250px;
+}
+#btn {
+	font-size: 15px;
+	font-weight: bold;
+	padding: 15px;
+}
+#container {
+	width: 250px;
+	height: 350px;
+	margin: 100px auto;
+	font-size: 35px;
+}
+#error {
+	color: red;
+}
