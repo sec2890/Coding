@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: stevencannizzaro1
+Build-Jdk: 10.0.1
+Implementation-Title: gettingfamiliarwithrouting
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.steven.gettingfamiliarwithrouting
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gettingfamiliarwithrouting
+Created-By: Maven Integration for Eclipse
+
