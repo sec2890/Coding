@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: stevencannizzaro1
+Build-Jdk: 10.0.1
+Implementation-Title: DriversLicense
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codingdojo.driverslicense
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DriversLicense
+Created-By: Maven Integration for Eclipse
+

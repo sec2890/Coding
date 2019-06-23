@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-size: 5rem;
+}
+h2 {
+	font-size: 1rem;
+	margin: 2rem 2rem;
+}
+#container {
+	width: 80rem;
+	height: 45rem;
+	margin: 3rem auto;
+}
+#leftpanel {
+	display: inline-block;
+	vertical-align: top;
+	width: 45rem;
+	height: 45rem;
+	margin: 1rem 1.20rem;
+}
+#leftpanel {
+	display: inline-block;
+	vertical-align: top;
+	width: 40rem;
+	height: 40rem;
+	margin: 1rem 1.20rem;
+}
+#rightpanel {
+	display: inline-block;
+	width: 40rem;
+	height: 30rem;
+	margin: 1rem 1.20rem;
+	padding-top: 10rem;
+}
+#btn {
+	float: right;
+	font-size: 1.3rem;
+	font-weight: bold;
+	margin: 2rem;
+	padding: 1rem;
+}
+.box {
+	float: right;
+	font-size: 1.3rem;
+	width: 18rem;
+	height: 2.3rem;
+}
+.red {
+	font-size: 1.3rem;
+	font-weight: bold;
+	color: red;
+}
